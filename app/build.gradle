@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.highlytech.smartnav'
+    namespace 'com.highlytech.smartnav.sample'
     compileSdk {
         version = release(36)
     }
