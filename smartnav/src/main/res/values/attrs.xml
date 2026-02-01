@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SmartBottomNavBar">
+        <attr name="menuResourceItem" format="reference" />
+        <attr name="viewPager2" format="reference" />
+        <attr name="navItemWidth" format="dimension" />
+        <attr name="navItemHeight" format="dimension" />
+        <attr name="navIconSize" format="dimension" />
+        <attr name="navItemSelectColor" format="color" />
+        <attr name="navItemUnselectColor" format="color" />
+        <attr name="navBackgroundColor" format="color" />
+        <attr name="navTextColor" format="color" />
+    </declare-styleable>
+</resources>
